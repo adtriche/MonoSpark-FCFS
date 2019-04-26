@@ -42,4 +42,4 @@ end = time.time()
 
 completion = (end - start)
 
-print "Shuffle script took" + str(completion)
+print "Shuffle script took " + str(completion)
