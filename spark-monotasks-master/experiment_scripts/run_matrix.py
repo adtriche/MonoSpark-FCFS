@@ -74,5 +74,5 @@ end = time.time()
 
 completion = (end - start)
 
-print "Matrix script took" + str(completion)
+print "Matrix script took " + str(completion)
 
